@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xog:home|Door43 (xog)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xog|d43-xog repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xog/archive/master.zip|d43-xog.zip]]
+
+**Recent Changes**
+{{changes>ns = xog}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xog|Ethnologue data]]
+
